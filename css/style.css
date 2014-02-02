@@ -1,0 +1,45 @@
+div.wrap {
+ width: 70%;
+ margin:auto; /*center the page*/
+}
+div.right {
+/*float: right;*/
+text-align:justify;
+margin-left: 22%; /* 0.15:0.7=0.22 */
+/*margin-left: 50px;*/
+}	
+div.bottom {
+width: 99%;
+/*position:absolute; bottom:0;*/
+text-align: center;
+margin-top:20px;
+}
+div.left {
+float:left;
+width: 15%;
+position: fixed;
+}
+div.left ul{
+list-style-type: none;
+}
+div.left ul a {
+text-decoration: none;
+font-size: 20pt;
+font-weight:bold;
+color: #996633;
+}	
+div.left li{
+margin-bottom:35px;
+text-align: center;
+}
+div.header {
+ height: 20px;
+}
+div.header ul.lang li {
+display: inline;
+margin-left:5px;
+}
+div.header ul.lang a {
+text-decoration: none;
+}
+h1 {margin-top: 15px; font-size: 20pt;} 

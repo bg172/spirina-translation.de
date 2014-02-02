@@ -1,0 +1,1 @@
+copy parts\1head.part + parts\2keywords_contacts.part + parts\3menu.part + parts\4contacts.part + parts\5copyright_end.part contacts.html /B
