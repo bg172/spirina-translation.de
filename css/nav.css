@@ -1,0 +1,22 @@
+.nav {
+	margin-left: 0;
+	margin-bottom: 18px;
+	list-style: none;
+}
+.nav > li > a {
+	display: block;
+}
+.nav > li > a:hover,
+.nav > li > a:focus {
+	text-decoration: none;
+	background-color: #eee;
+}
+.nav > li > a > img {
+	max-width: none;
+}
+.nav > .pull-right {
+	float: right;
+}
+.nav li{
+	margin-top: 9px;
+}

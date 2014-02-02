@@ -19,12 +19,13 @@ float:left;
 width: 15%;
 position: fixed;
 }
+
 div.left ul{
 list-style-type: none;
 }
 div.left ul a {
 text-decoration: none;
-font-size: 20pt;
+font-size: 16pt;
 font-weight:bold;
 color: #996633;
 }	
@@ -32,6 +33,7 @@ div.left li{
 margin-bottom:35px;
 text-align: center;
 }
+
 div.header {
  height: 20px;
 }
