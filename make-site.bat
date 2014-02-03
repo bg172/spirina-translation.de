@@ -1,1 +1,3 @@
-copy parts\1head.part + parts\2keywords_contacts.part + parts\3menu.part + parts\4contacts.part + parts\5copyright_end.part contacts.html /B
+copy parts\1head.part + parts\2keywords_contacts.part + parts\3lang.part + parts\3menu.part + parts\4contacts.part + parts\5copyright_end.part contacts.html
+copy parts\1head.part + parts\2keywords_contacts_en.part + parts\3lang.part + parts\3menu_en.part + parts\4contacts_en.part + parts\5copyright_end.part contacts_en.html
+copy parts\1head.part + parts\2keywords_contacts_ru.part + parts\3lang.part + parts\3menu_ru.part + parts\4contacts_ru.part + parts\5copyright_end.part contacts_ru.html

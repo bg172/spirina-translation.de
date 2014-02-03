@@ -1,22 +1,23 @@
-.nav {
-	margin-left: 0;
-	margin-bottom: 18px;
-	list-style: none;
+div.left ul {
+margin-top:20px;
+margin-left: 0;
+list-style: none;
 }
-.nav > li > a {
-	display: block;
+div.left ul a {
+text-decoration: none;
+font-size: 16pt;
+font-weight:bold;
+color: #996633;
+}	
+div.left li{
+margin-bottom:15px;
+text-align: center;
 }
-.nav > li > a:hover,
-.nav > li > a:focus {
-	text-decoration: none;
-	background-color: #eee;
+div.left li a {
+display: block;
 }
-.nav > li > a > img {
-	max-width: none;
-}
-.nav > .pull-right {
-	float: right;
-}
-.nav li{
-	margin-top: 9px;
+div.left li a:hover,
+div.left li a:focus {
+text-decoration: none;
+background-color: #eee;
 }
