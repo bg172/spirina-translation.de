@@ -2,15 +2,12 @@
 	<div class="col2">
 		<h1>Contacts</h1>
 		polina.spirina<img alt="at" src="images/@.png" height="12" width="12"/>gmail.com<br/>
-		<br/>
-      <a href="http://de.linkedin.com/in/polinaspirina"><img alt="Linkedin" src="images/icon_linkedin.jpg" height="24"/></a>
-      &nbsp;
-      <a href="http://www.facebook.com/polina.spirina.1"><img alt="Facebook" src="images/icon_facebook.jpg" height="24"/></a>
-		<br/>
+      <br/>
+		<a href="http://de.linkedin.com/in/polinaspirina"><img alt="Linkedin" src="images/icon_linkedin.jpg" height="24" text-align="center"/></a><br/>
 		<br/>
 		Motorstr. 24<br/>
 		80807 Munich<br/>
-		Tel.: +49 (0) 151 - 10220694<br/>
+		Tel.: +49 151 - 10220694<br/>
 		<br/><br/><br/><br/>
 		<br/><br/><br/><br/>
 	</div><!--col2-->
