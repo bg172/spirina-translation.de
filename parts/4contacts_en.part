@@ -1,5 +1,5 @@
 <title>Contacts</title>
-	<div class="right">
+	<div class="col2">
 		<h1>Contacts</h1>
 		polina.spirina<img alt="at" src="images/@.png" height="12" width="12"/>gmail.com<br/>
 		<br/>
@@ -11,8 +11,7 @@
 		Motorstr. 24<br/>
 		80807 Munich<br/>
 		Tel.: +49 (0) 151 - 10220694<br/>
-		<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-		<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-		<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-	</div><!--right-->
+		<br/><br/><br/><br/>
+		<br/><br/><br/><br/>
+	</div><!--col2-->
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------->

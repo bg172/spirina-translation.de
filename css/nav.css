@@ -1,23 +1,23 @@
-div.left ul {
+div.col1 ul {
 margin-top:20px;
 margin-left: 0;
 list-style: none;
 }
-div.left ul a {
+div.col1 ul a {
 text-decoration: none;
 font-size: 16pt;
 font-weight:bold;
 color: #996633;
 }	
-div.left li{
+div.col1 li{
 margin-bottom:15px;
 text-align: center;
 }
-div.left li a {
+div.col1 li a {
 display: block;
 }
-div.left li a:hover,
-div.left li a:focus {
+div.col1 li a:hover,
+div.col1 li a:focus {
 text-decoration: none;
 background-color: #eee;
 }
