@@ -7,8 +7,12 @@ border:none;
 h1 {
 margin-top: 15px; font-family: times new roman; font-size: 20pt; color: rgb(0,0,0);
 } 
+h3 {
+margin: 12px 0px; font-family: times new roman; font-size: 20px;
+}
 div {
 font-family: verdana;
+font-size: 16px;
 }
 
 .wrap {
@@ -44,4 +48,12 @@ width: 100%;
 text-align: center;
 margin-top:20px;
 color: #996633;
+}
+.block{
+text-align: center;
+padding: 10px;
+background-color: rgb(245, 245, 245);
+border: 1px solid rgb(227, 227, 227);
+border-radius: 4px;
+box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.05) inset;
 }

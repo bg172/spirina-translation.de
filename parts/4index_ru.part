@@ -3,12 +3,16 @@
 	</div><!--col2-->
 	<div class="col3">
 		<img alt="Foto" src="images/55_KB.jpg" width="200"/><br>
-      <br>
-		polina.spirina<img alt="at" src="images/@.png" height="12" width="12"/>gmail.com<br/>
-		<a href="http://de.linkedin.com/in/polinaspirina"><img alt="Linkedin" src="images/icon_linkedin.jpg" height="24"/></a>
-		<br/>
-		Моторштрассе 24<br/>
-		80807 Мюнхен<br/>
-		Tel.: +49 151 - 10220694
+      <div class="block">
+         <h3>Контакт</h3>
+            Полина Спирина<br/>
+            Мюнхен<br/><br/>
+            Телефон:<br/>
+            +49 151 102 206 94<br/><br/>
+            <a href="http://de.linkedin.com/in/polinaspirina"><img alt="Linkedin" src="images/icon_linkedin.jpg" height="24"/></a><br/>
+            <br/>
+            E-Mail:<br/>
+         polina.spirina<img alt="at" src="images/@.png" height="12" width="12"/>gmail.com<br/><br/>
+      </div><!--block-->
 	</div><!--col3-->
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------->
