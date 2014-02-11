@@ -31,10 +31,11 @@ font-family: times new roman;
 .col2 {
 float: left;
 margin-left: 230px;
-width: 48%;
+width: 46%;
 text-align:justify;
 }
 .col3 {
+margin-left: 10px;
 float: right;
 text-align: center;
 }
