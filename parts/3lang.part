@@ -2,19 +2,32 @@
 <body>
 <div class="wrap">
 	<div class="header">
-		<ul class="lang">
-			<li><a href="index.html">
-		    	<img title="Deutsche Version" alt="De" src="images/de.gif"></img>
-				</a>
-			</li>
-			<li><a href="index_en.html">
-		    	<img title="English version" alt="En" src="images/en.gif"></img>
-				</a>
-			</li>
-			<li><a href="index_ru.html">
-		    	<img title="Русская версия" alt="Ru" src="images/ru.gif"></img>
-				</a>
-			</li>
-		</ul>
+		<div>
+			<ul class="lang">
+				<li><a href="index.html">
+					<img title="Deutsche Version" alt="De" src="images/de.gif"></img>
+					</a>
+				</li>
+				<li><a href="index_en.html">
+					<img title="English version" alt="En" src="images/en.gif"></img>
+					</a>
+				</li>
+				<li><a href="index_ru.html">
+					<img title="Русская версия" alt="Ru" src="images/ru.gif"></img>
+					</a>
+				</li>
+			</ul>
+		</div>
+		<div name="fotos">
+			<div style="width: 33.333333%; float:right">
+				<img class="foto" alt="at" src="images/IMG_3189.jpg"/>
+			</div>
+			<div style="width: 33.333333%; float:left">
+				<img class="foto" alt="at" src="images/IMG_3467.jpg"/>
+			</div>
+			<div style="width: 33.333333%; margin-left: 33.333333%">
+				<img class="foto" alt="at" src="images/IMG_3158.jpg"/>
+			</div>
+		</div>
 	</div>
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------->
