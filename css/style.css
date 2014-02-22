@@ -27,6 +27,7 @@ float:left;
 width: 180px;
 position: fixed;
 font-family: times new roman;
+z-index: -10;
 }
 .col2 {
 margin-left: 190px;
@@ -47,6 +48,8 @@ width: 100%;
 text-align: center;
 margin-top:20px;
 color: #996633;
+background-color: white;
+z-index: 10;
 }
 .block{
 text-align: center;
