@@ -28,13 +28,14 @@ margin-left:5px;
 }
 .col1 {
 float:left;
-width: 180px;
+width: 140px;
 position: fixed;
 font-family: times new roman;
 }
 .col2 {
-margin-left: 190px;
+margin-left: 140px;
 margin-right: 245px;
+padding-left: 10px;
 text-align: justify;
 font-family: verdana;
 font-size: 16px;
