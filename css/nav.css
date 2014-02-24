@@ -1,7 +1,6 @@
 .col1 ul {
-margin-top:19px;
-margin-left: 0;
 list-style: none;
+padding-left: 0px;
 }
 .col1 ul a, a.coollink {
 font-size: 12pt;
