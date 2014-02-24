@@ -6,7 +6,7 @@ list-style: none;
 .col1 ul a, a.coollink {
 font-size: 12pt;
 font-weight:bold;
-color: #996633;
+color: rgb(111,184,121);
 }	
 .col1 li{
 margin-bottom:15px;
