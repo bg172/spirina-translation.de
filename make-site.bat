@@ -28,4 +28,9 @@ copy 1head.part+2keywords_contacts.part   +3lang.part+4col3.part   +3menu.part  
 copy 1head.part+2keywords_contacts_en.part+3lang.part+4col3_en.part+3menu_en.part+4teaching_en.part+5copyright.part+6openstat.part+7end.part ..\teaching_en.html/B
 copy 1head.part+2keywords_contacts_ru.part+3lang.part+4col3_ru.part+3menu_ru.part+4teaching_ru.part+5copyright.part+6openstat.part+7end.part ..\teaching_ru.html/B
 
+copy 1head.part+2keywords_contacts.part   +3lang.part+4col3.part   +3menu.part   +4customers.part   +5copyright.part+6openstat.part+7end.part ..\customers.html/B
+copy 1head.part+2keywords_contacts_en.part+3lang.part+4col3_en.part+3menu_en.part+4customers_en.part+5copyright.part+6openstat.part+7end.part ..\customers_en.html/B
+copy 1head.part+2keywords_teaching_ru.part+3lang.part+4col3_ru.part+3menu_ru.part+4customers_ru.part+5copyright.part+6openstat.part+7end.part ..\customers_ru.html/B
+
+
 cd..
