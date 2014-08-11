@@ -3,42 +3,56 @@ rgb(111,184,121) #rgb(170,217,165) #rgb(221,247,200)
 */
 a {text-decoration: none;}
 img {border:none;}
-h1 {margin-top: 12px; font-family: times new roman; font-size: 20pt; color: rgb(0,0,0); text-align: center;} 
-h2 {margin-top: 12px; font-family: verdana; font-size: 16px; color: rgb(0,0,0); font-weight: bold; text-indent:0px; text-align: left;} 
-h3 {margin: 12px 0px; font-family: times new roman; font-size: 20px;}
+h1 {margin-top: 12px; font-family: calibri; font-size: 46pt; font-style: italic; text-decoration: underline; color: rgb(0,0,0); text-align: center; margin-bottom: 5px; padding: 0} 
+h2 {margin-top: 12px; font-family: verdana; font-size: 16pt; color: rgb(0,0,0); font-weight: bold; text-indent:0px; text-align: center;} 
+h3 {margin: 12px 0px; font-family: arial; font-size: 22pt; font-style: italic; text-decoration: underline; font-weight: bold; color: rgb(0,0,0);}
 strong { font-weight: bold; }
 
 .wrap {
 position: relative;
-width: 70%;
+#width: 70%;
+width: 1000px;
 margin:auto;
-}
-.header img.foto {
-width: 100%;
-height: 150px;
 }
 .header{
 text-align:right;
-height: 170px;
+height: 220px;
+font-family: calibri;
+font-size: 18pt;
+font-style: italic;
+margin-bottom: 50px;
+}
+.header img.foto {
+height: 220px;
+}
+.header ul.lang {
+margin-top: 18px;
+margin-left: 80px;
+text-align:left;
 font-size: 2px;
 }
 .header ul.lang li {
 display: inline;
-margin-left:5px;
+margin-right:5px;
+}
+.header img.stripe {
+margin-top: -58px;
+width: 100%;
+height: 23px;
+z-index: -100;
 }
 .col1 {
 float:left;
-width: 140px;
-position: fixed;
+width: 190px;
 font-family: times new roman;
 }
 .col2 {
-margin-left: 140px;
+margin-left: 230px;
 margin-right: 245px;
 padding-left: 10px;
-text-align: justify;
+text-align: left;
 font-family: verdana;
-font-size: 16px;
+font-size: 14px;
 text-indent:50px;
 }
 .col2 ul {
@@ -49,19 +63,18 @@ margin-left: 10px;
 float: right;
 width: 230px;
 text-align: center;
+color: rgb(81,88,98);
 }
 .bottom{
 float: left;
 width: 100%;
 text-align: center;
 margin-top:20px;
-color: #996633;
+margin-bottom:10px;
+color: rgb(81,88,98);
 }
 .block{
-text-align: center;
-padding: 10px;
-background-color: rgb(245, 245, 245);
-border: 1px solid rgb(227, 227, 227);
-border-radius: 4px;
-box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.05) inset;
+text-align: right;
+margin-top: -18px;
+padding: 0px 0px 0px 0px;
 }
