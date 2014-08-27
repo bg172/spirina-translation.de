@@ -13,6 +13,9 @@ position: relative;
 #width: 70%;
 width: 1000px;
 margin:auto;
+margin-top: 12px;
+margin-left: 5px;
+margin-right: 5px;
 }
 .header{
 text-align:right;
