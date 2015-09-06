@@ -2,11 +2,13 @@
 		<ul class="nav">
 			<li><a href="index.html">Startseite</a></li>
 			<li><a href="profile.html">Profil</a></li>
+			<li><a href="price.html">Preise</a></li>
 			<li><a id="activetopic" href="interpretation.html">Dolmetschen</a></li>
 			<li><a href="translation.html">Übersetzen</a></li>
 			<li><a href="customers.html">Kunden</a></li>
 			<li><a href="teaching.html">Deutschunterricht</a></li>
 			<li><a href="message.html">Angebot anfordern</a></li>
+			<li><a href="impressum.html">Impressum</a></li>
 		</ul>
 	</div>
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------->

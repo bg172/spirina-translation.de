@@ -7,8 +7,8 @@
 			<li><a href="translation.html">Übersetzen</a></li>
 			<li><a href="customers.html">Kunden</a></li>
 			<li><a href="teaching.html">Deutschunterricht</a></li>
-			<li><a id="activetopic" href="message.html">Angebot anfordern</a></li>
-			<li><a href="impressum.html">Impressum</a></li>
+			<li><a href="message.html">Angebot anfordern</a></li>
+			<li><a id="activetopic" href="impressum.html">Impressum</a></li>
 		</ul>
 	</div>
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------->
