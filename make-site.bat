@@ -23,10 +23,6 @@ copy 1head.part+2keywords_contacts.part   +3lang.part+4col3.part   +3menu6.part 
 copy 1head.part+2keywords_contacts_en.part+3lang.part+4col3_en.part+3menu6_en.part+4teaching_en.part+5copyright.part+6openstat.part+7end.part ..\teaching_en.html/B
 copy 1head_ru.part+2keywords_contacts_ru.part+3lang.part+4col3_ru.part+3menu6_ru.part+4teaching_ru.part+5copyright.part+6openstat.part+7end.part ..\teaching_ru.html/B
 
-copy 1head.part+2keywords_contacts.part   +3lang.part+3menu7.part   +4contacts.part   +5copyright.part+6openstat.part+7end.part ..\contacts.html/B
-copy 1head.part+2keywords_contacts_en.part+3lang.part+3menu7_en.part+4contacts_en.part+5copyright.part+6openstat.part+7end.part ..\contacts_en.html/B
-copy 1head_ru.part+2keywords_contacts_ru.part+3lang.part+3menu7_ru.part+4contacts_ru.part+5copyright.part+6openstat.part+7end.part ..\contacts_ru.html/B
-
 copy 1head.part+2keywords_contacts.part   +3lang.part+4col3.part   +3menu8.part   +4message.part   +5copyright.part+6openstat.part+7end.part ..\message.html/B
 copy 1head.part+2keywords_contacts_en.part+3lang.part+4col3_en.part+3menu8_en.part+4message_en.part+5copyright.part+6openstat.part+7end.part ..\message_en.html/B
 copy 1head_ru.part+2keywords_contacts_ru.part+3lang.part+4col3_ru.part+3menu8_ru.part+4message_ru.part+5copyright.part+6openstat.part+7end.part ..\message_ru.html/B
