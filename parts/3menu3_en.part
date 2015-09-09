@@ -2,7 +2,7 @@
 		<ul class="nav">
 			<li><a href="index_en.html?update">Home</a></li>
 			<li><a href="profile_en.html?update">Profile</a></li>
-			<li><a href="price.html?update">Prices</a></li>
+			<li><a href="price_en.html?update">Prices</a></li>
 			<li><a id="activetopic" href="interpretation_en.html?update">Interpretation</a></li>
 			<li><a href="translation_en.html?update">Translation</a></li>
 			<li><a href="customers_en.html?update">Customers</a></li>
