@@ -1,7 +1,7 @@
 ﻿/* rgb(223,234,240) #rgb(118,216,227) #rgb(84,139,156)
 rgb(111,184,121) #rgb(170,217,165) #rgb(221,247,200)
 */
-a {text-decoration: none;}
+a {color: rgb(0,0,0);}
 img {border:none;}
 h1 {margin-top: 12px; font-family: calibri; font-size: 46pt; font-style: italic; text-decoration: underline; color: rgb(0,0,0); text-align: center; margin-bottom: 5px; padding: 0} 
 h2 {margin-top: 12px; font-family: verdana; font-size: 16pt; color: rgb(0,0,0); font-weight: bold; text-indent:0px; text-align: center;} 
@@ -53,6 +53,9 @@ margin-right:5px;
 float:left;
 width: 190px;
 font-family: times new roman;
+}
+.col1 a {
+text-decoration: none;
 }
 .col2 {
 margin-left: 230px;
