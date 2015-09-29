@@ -22,6 +22,13 @@ padding-left: 5px;
 padding-right: 12px;
 background-color: white;
 }
+#@media(max-device-width: 1000px){
+#.wrap {
+#width: 500px;
+#}
+#}
+
+
 .header{
 text-align:right;
 height: 220px;
