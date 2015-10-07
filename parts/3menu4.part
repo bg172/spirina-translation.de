@@ -1,14 +1,14 @@
 	<div class="col1">
 		<ul class="nav">
-			<li><a href="index.html?update">Startseite</a></li>
-			<li><a href="profile.html?update">Profil</a></li>
-			<li><a href="price.html?update">Preise</a></li>
-			<li><a href="interpretation.html?update">Dolmetschen</a></li>
-			<li><a id="activetopic" href="translation.html?update">Übersetzen</a></li>
-			<li><a href="customers.html?update">Kunden</a></li>
-			<li><a href="teaching.html?update">Deutschunterricht</a></li>
-			<li><a href="message.html?update">Angebot anfordern</a></li>
-			<li><a href="impressum.html?update">Impressum</a></li>
+			<li><a href="index.html">Startseite</a></li>
+			<li><a href="profile.html">Über mich</a></li>
+			<li><a href="price.html">Preise</a></li>
+			<li><a href="interpretation.html">Dolmetschen</a></li>
+			<li><a id="activetopic" href="translation.html">Übersetzen</a></li>
+			<li><a href="customers.html">Kunden</a></li>
+			<li><a href="teaching.html">Deutschunterricht</a></li>
+			<li><a href="message.html">Angebot anfordern</a></li>
+			<li><a href="impressum.html">Impressum</a></li>
 		</ul>
 	</div>
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------->

@@ -1,0 +1,43 @@
+2keywords_contacts
+  <meta name="keywords" content="Kontakt, Polina Spirina, München, Bayern, Deutschland" />
+  <meta name="description" content="Polina Spirina, öffentlich bestellte und beeidigte Übersetzerin für die russische Sprache,  Dolmetscherin für Deutsch, Russisch, Englisch in München, Lehrerin, Kontakt" />  
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+
+2keywords_contacts_en
+  <meta name="keywords" content="contact, Polina Spirina, munich" />
+  <meta name="description" content="Polina Spirina, translator and interpreter, teacher for Russian, German, English, munich, Contact" />
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+
+2keywords_contacts_ru
+  <meta name="keywords" content="Мюнхен, Контакты, Полина Спирина" />
+  <meta name="description" content="Официальный присяжный переводчик русский-немецкий в Мюнхене, Устный переводчик, преподаватель, русский, немецкий, английский Мюнхен, Полина Спирина, Контакт" />
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+
+2keywords_index
+  <meta name="keywords" content="Übersetzer Übersetzerin Dolmetscher Dolmetscherin Lehrer Lehrerin Russisch Deutsch Englisch Polina Spirina München" />
+  <meta name="description" content="Polina Spirina, öffentlich bestellte und beeidigte Übersetzerin für die russische Sprache, Dolmetscherin für Deutsch, Russisch, Englisch in München, Startseite" />
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+
+
+2keywords_index_en
+  <meta name="keywords" content="interpreter teacher russian english translator munich polina spirina" />
+  <meta name="description" content="Polina Spirina, translator and interpreter for Russian, German and English, teacher, munich, home" />
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+
+
+2keywords_index_ru
+  <meta name="keywords" content="переводы с иностранных языков переводчик преподаватель русский немецкий английский Мюнхен Полина Спирина" />
+  <meta name="description" content="Официальный присяжный переводчик русский-немецкий в Мюнхене, Устный переводчик, преподаватель, русский, немецкий, английский Мюнхен, Полина Спирина, Главная страница" />
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+
+
+2keywords_teaching_ru
+  <meta name="keywords" content="уроки преподаватель немецкого английского в Мюнхене" />
+  <meta name="description" content="Официальный присяжный переводчик русский-немецкий в Мюнхене, Устный переводчик, преподаватель, русский, немецкий, английский Мюнхен, Полина Спирина, Преподавание языков" />
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------->

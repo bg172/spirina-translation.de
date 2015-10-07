@@ -3,8 +3,9 @@ rgb(111,184,121) #rgb(170,217,165) #rgb(221,247,200)
 */
 a {color: rgb(0,0,0);}
 img {border:none;}
-h1 {margin-top: 12px; font-family: calibri; font-size: 46pt; font-style: italic; text-decoration: underline; color: rgb(0,0,0); text-align: center; margin-bottom: 5px; padding: 0} 
-h2 {margin-top: 12px; font-family: verdana; font-size: 16pt; color: rgb(0,0,0); font-weight: bold; text-indent:0px; text-align: center;} 
+superheadtext {margin-top: 12px; font-family: calibri; font-size: 44pt; font-style: italic; text-decoration: underline; color: rgb(0,0,0); font-weight: bold; text-align: center; margin-bottom: 5px; padding: 0} 
+h1 {margin-top: 12px; font-family: verdana; font-size: 16pt; color: rgb(0,0,0); font-weight: bold; text-indent:0px; text-align: center;} 
+h2 {margin-top: 12px; font-family: verdana; font-size: 14pt; color: rgb(0,0,0); font-weight: bold; text-indent:0px; text-align: center;} 
 h3 {margin: 12px 0px; font-family: arial; font-size: 22pt; font-style: italic; text-decoration: underline; font-weight: bold; color: rgb(0,0,0);}
 strong { font-weight: bold; }
 

@@ -1,0 +1,39 @@
+</head>
+<body>
+<div class="wrap">
+	<div class="header">
+		<div name="fotos">
+			<div style="float:right; margin-left:30px">
+				<img class="foto" alt="at" src="images/portrait.jpg"/>
+			</div>
+			<div style="float:left; margin-right:30px">
+				<img class="foto" alt="at" src="images/munich.jpg"/>
+			</div>
+			<div style="padding-top: 5px;">
+				<superheadtext>Polina Spirina</superheadtext><br/>
+            Sworn Translator, Interpreter<br/>
+            German &bull; Russian &bull; English<br/>
+            in Munich, Germany and Europe
+			</div>
+		</div>
+      <div name="stripe">
+         <img class="stripe" alt="at" src="images/stripe.jpg"/>
+      </div>
+		<div>
+			<ul class="lang">
+				<li><a href="index.html">
+					<img title="Deutsche Version" alt="De" src="images/de.gif"></img>
+					</a>
+				</li>
+				<li><a href="index_en.html">
+					<img title="English version" alt="En" src="images/en.gif"></img>
+					</a>
+				</li>
+				<li><a href="index_ru.html">
+					<img title="Русская версия" alt="Ru" src="images/ru.gif"></img>
+					</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------->
