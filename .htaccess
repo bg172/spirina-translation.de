@@ -1,1 +1,2 @@
 Header set Cache-Control "max-age=60"
+Header set Expires 60

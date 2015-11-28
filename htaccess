@@ -1,3 +1,5 @@
+Header set Cache-Control "max-age=60"
+
 #Glavnaya stranica - default.html
 #DirectoryIndex default.html
 
