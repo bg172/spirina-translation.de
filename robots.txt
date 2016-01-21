@@ -4,5 +4,4 @@ Disallow: /misc
 Disallow: /css
 Disallow: /fonts
 Disallow: /images
-Disallow: /js
 Disallow: /klavier
