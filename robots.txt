@@ -1,7 +1,5 @@
 User-agent: *
 Disallow: /test
 Disallow: /misc
-Disallow: /css
 Disallow: /fonts
-Disallow: /images
 Disallow: /klavier
