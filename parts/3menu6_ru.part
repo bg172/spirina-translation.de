@@ -3,9 +3,8 @@
 			<li><a href="index_ru.html">Главная страница</a></li>
 			<li><a href="profile_ru.html">Обо мне</a></li>
 			<li><a href="price_ru.html">Цены</a></li>
-			<li><a href="interpretation_ru.html">Устные переводы</a></li>
-			<li><a href="translation_ru.html">Письменные переводы</a></li>
-			<li><a href="customers_ru.html">Клиенты</a></li>
+			<li><a href="translation_ru.html">Переводы</a></li>
+			<li><a href="customers_ru.html">Мои клиенты</a></li>
 			<li><a id="activetopic" href="teaching_ru.html">Уроки немецкого</a></li>
 			<li><a href="message_ru.html">Оставить заявку</a></li>
 			<li><a href="impressum_ru.html">Импрессум</a></li>

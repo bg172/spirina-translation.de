@@ -11,10 +11,6 @@ copy 1head.part+2keywords_contacts.part   +3lang.part+4col3.part  +3menu22.part 
 copy 1head.part+2keywords_contacts_en.part+3lang_en.part+4col3_en.part+3menu22_en.part+4price_en.part+5copyright.part+6openstat.part+7end.part ..\price_en.html/B
 copy 1head_ru.part+2keywords_contacts_ru.part+3lang_ru.part+4col3_ru.part+3menu22_ru.part+4price_ru.part+5copyright.part+6openstat.part+7end.part ..\price_ru.html/B
 
-copy 1head.part+2keywords_contacts.part   +3lang.part+4col3.part   +3menu3.part   +4interpretation.part   +5copyright.part+6openstat.part+7end.part ..\interpretation.html/B
-copy 1head.part+2keywords_contacts_en.part+3lang_en.part+4col3_en.part+3menu3_en.part+4interpretation_en.part+5copyright.part+6openstat.part+7end.part ..\interpretation_en.html/B
-copy 1head_ru.part+2keywords_contacts_ru.part+3lang_ru.part+4col3_ru.part+3menu3_ru.part+4interpretation_ru.part+5copyright.part+6openstat.part+7end.part ..\interpretation_ru.html/B
-
 copy 1head.part+2keywords_contacts.part   +3lang.part+4col3.part   +3menu4.part   +4translation.part   +5copyright.part+6openstat.part+7end.part ..\translation.html/B
 copy 1head.part+2keywords_contacts_en.part+3lang_en.part+4col3_en.part+3menu4_en.part+4translation_en.part+5copyright.part+6openstat.part+7end.part ..\translation_en.html/B
 copy 1head_ru.part+2keywords_contacts_ru.part+3lang_ru.part+4col3_ru.part+3menu4_ru.part+4translation_ru.part+5copyright.part+6openstat.part+7end.part ..\translation_ru.html/B

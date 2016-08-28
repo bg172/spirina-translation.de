@@ -3,7 +3,6 @@
 			<li><a href="index.html">Startseite</a></li>
 			<li><a href="profile.html">Über mich</a></li>
 			<li><a href="price.html">Preise</a></li>
-			<li><a href="interpretation.html">Dolmetschen</a></li>
 			<li><a href="translation.html">Übersetzen</a></li>
 			<li><a id="activetopic" href="customers.html">Kunden</a></li>
 			<li><a href="teaching.html">Deutschunterricht</a></li>
