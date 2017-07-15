@@ -72,6 +72,30 @@ text-indent:50px;
 .col2 ul {
 text-indent:0px; 
 }
+.table1 {
+text-indent:0px;
+text-align: right; 
+}
+.col2 div {
+text-align: center;
+}
+.col2 button {
+align-items: flex-start;
+text-align: center;
+cursor: default;
+color: buttontext;
+background-color: buttonface;
+box-sizing: border-box;
+border-width: 2px;
+border-style: outset;
+border-color: buttonface;
+border-image: initial;
+display: inline-block;
+width: 170px;
+}
+input {
+margin: 2px 0px 1px 5px; 
+}
 .col3 {
 margin-left: 10px;
 float: right;

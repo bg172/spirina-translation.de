@@ -3,10 +3,10 @@ rgb(111,184,121) #rgb(170,217,165) #rgb(221,247,200)
 */
 a {color: rgb(0,0,0);}
 img {border:none;}
-superheadtext {margin-top: 12px; font-family: calibri; font-size: 2em; font-style: italic; text-decoration: underline; color: rgb(0,0,0); font-weight: bold; text-align: center; margin-bottom: 5px; padding: 0} 
-h1 {margin-top: 12px; font-family: verdana; font-size: 2em; color: rgb(0,0,0); font-weight: bold; text-indent:0px; text-align: center;} 
+superheadtext {margin-top: 12px; font-family: calibri; font-size: 1.6em; font-style: italic; text-decoration: underline; color: rgb(0,0,0); font-weight: bold; text-align: center; margin-bottom: 5px; padding: 0} 
+h1 {margin-top: 12px; font-family: verdana; font-size: 1.8em; color: rgb(0,0,0); font-weight: bold; text-indent:0px; text-align: center;} 
 h2 {margin-top: 12px; font-family: verdana; font-size: 2em; color: rgb(0,0,0); font-weight: bold; text-indent:0px; text-align: center;} 
-h3 {margin: 12px 0px; font-family: arial; font-size: 2em; font-style: italic; text-decoration: underline; font-weight: bold; color: rgb(0,0,0);}
+h3 {margin: 5px 0px; font-family: arial; font-size: 2em; font-style: italic; text-decoration: underline; font-weight: bold; color: rgb(0,0,0);}
 strong { font-weight: bold; }
 
 html, body{
@@ -25,6 +25,7 @@ background-color: white;
 
 .header{
 text-align:right;
+height: 500px;
 font-family: calibri;
 font-size: 3em;
 font-style: italic;
@@ -59,6 +60,8 @@ padding-right:90px;
 .col1 {
 float:left;
 width: 100%;
+margin-top: 100px;
+margin-bottom: 100px;
 font-family: times new roman;
 }
 .col1 a {
@@ -73,14 +76,31 @@ padding-top: 150px;
 padding-bottom: 50px;
 text-align: left;
 font-family: verdana;
-font-size: 2em;
+font-size: 30px;
 text-indent:50px;
+}
+.col2 table, .col2 button, .col2 input, .col2 div{
+font-size: 40px;
+}
+.col2 div {
+text-align: center;
+}
+#table1 {
+text-indent:0px;
+}
+.col2 input {
+width: 240px;
+}
+.col2 button {
+background-color: buttonface;
+border-style: solid;
+width: 300px;
 }
 .col2 ul {
 text-indent:0px; 
 }
 .col3 {
-margin-top: 100px;
+margin-top: 40px;
 margin-left: 10px;
 margin-right: 5px;
 width: 100%;
