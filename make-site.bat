@@ -3,9 +3,13 @@ copy 1head.part+2keywords_index.part   +3lang.part+4col3.part   +3menu1.part   +
 copy 1head.part+2keywords_index_en.part+3lang_en.part+4col3_en.part+3menu1_en.part+4index_en.part+5copyright.part+6openstat.part+7end.part ..\index_en.html/B
 copy 1head_ru.part+2keywords_index_ru.part+3lang_ru.part+4col3_ru.part+3menu1_ru.part+4index_ru.part+5copyright.part+6openstat.part+7end.part ..\index_ru.html/B
 
-copy 1head.part+2keywords_contacts.part   +3lang.part+4col3.part  +3menu2.part    +4profile.part   +5copyright.part+6openstat.part+7end.part ..\profile.html/B
-copy 1head.part+2keywords_contacts_en.part+3lang_en.part+4col3_en.part+3menu2_en.part+4profile_en.part+5copyright.part+6openstat.part+7end.part ..\profile_en.html/B
-copy 1head_ru.part+2keywords_contacts_ru.part+3lang_ru.part+4col3_ru.part+3menu2_ru.part+4profile_ru.part+5copyright.part+6openstat.part+7end.part ..\profile_ru.html/B
+copy 1head.part+2keywords_contacts.part   +3lang.part+4col3.part  +3menu2.part    +4medtourism.part   +5copyright.part+6openstat.part+7end.part ..\medtourism.html/B
+copy 1head.part+2keywords_contacts_en.part+3lang_en.part+4col3_en.part+3menu2_en.part+4medtourism_en.part+5copyright.part+6openstat.part+7end.part ..\medtourism_en.html/B
+copy 1head_ru.part+2keywords_contacts_ru.part+3lang_ru.part+4col3_ru.part+3menu2_ru.part+4medtourism_ru.part+5copyright.part+6openstat.part+7end.part ..\medtourism_ru.html/B
+
+copy 1head.part+2keywords_contacts.part   +3lang.part+4col3.part  +3menu3.part    +4profile.part   +5copyright.part+6openstat.part+7end.part ..\profile.html/B
+copy 1head.part+2keywords_contacts_en.part+3lang_en.part+4col3_en.part+3menu3_en.part+4profile_en.part+5copyright.part+6openstat.part+7end.part ..\profile_en.html/B
+copy 1head_ru.part+2keywords_contacts_ru.part+3lang_ru.part+4col3_ru.part+3menu3_ru.part+4profile_ru.part+5copyright.part+6openstat.part+7end.part ..\profile_ru.html/B
 
 copy 1head.part+2keywords_contacts.part   +3lang.part+4col3.part  +3menu22.part    +4price.part   +5copyright.part+6openstat.part+7end.part ..\price.html/B
 copy 1head.part+2keywords_contacts_en.part+3lang_en.part+4col3_en.part+3menu22_en.part+4price_en.part+5copyright.part+6openstat.part+7end.part ..\price_en.html/B

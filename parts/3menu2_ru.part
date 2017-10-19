@@ -1,7 +1,8 @@
 	<div class="col1">
 		<ul class="nav">
 			<li><a href="index_ru.html">Главная страница</a></li>
-			<li><a id="activetopic" href="profile_ru.html">Обо мне</a></li>
+			<li><a id="activetopic" href="medtourism_ru.html">Медицинский туризм</a></li>
+			<li><a href="profile_ru.html">Обо мне</a></li>
 			<li><a href="price_ru.html">Цены</a></li>
 			<li><a href="translation_ru.html">Переводы</a></li>
 			<li><a href="customers_ru.html">Мои клиенты</a></li>
